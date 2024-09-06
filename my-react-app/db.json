@@ -1,0 +1,35 @@
+{
+  "users": [
+    {
+      "id": "cab2",
+      "email": "fas@fas.lt",
+      "username": "fas",
+      "password": "fas"
+    },
+    {
+      "id": "87cc",
+      "email": "asd@asd.lt",
+      "username": "asd",
+      "password": "asd"
+    }
+  ],
+  "posts": [
+    {
+      "id": "3853",
+      "title": "asdgasgas",
+      "description": "asdgsagag",
+      "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F3.bp.blogspot.com%2F-e9iaysd5X1E%2FUDJmovqjrYI%2FAAAAAAAAAaE%2FlQVAJcSeCtA%2Fs1600%2Fcatpicturess%2B(4).jpg&f=1&nofb=1&ipt=f1b277f87477d3ed1fdb6dd7b5995201c2a9f3cac4c02e2f0ea5a8f6dddaecc0&ipo=images",
+      "username": "fas",
+      "createdAt": "2024-09-05T21:31:06.094Z"
+    },
+    {
+      "id": "da3a",
+      "title": "fdhfd",
+      "description": "hfdhfd",
+      "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpixnio.com%2Ffree-images%2F2017%2F09%2F26%2F2017-09-26-09-42-06.jpg&f=1&nofb=1&ipt=5400c977069359d1a5b90d3381b7510a4388dc87cc5271b8741cced636c60d8b&ipo=images",
+      "userId": "87cc",
+      "username": "asd",
+      "createdAt": "2024-09-05T21:34:25.391Z"
+    }
+  ]
+}
